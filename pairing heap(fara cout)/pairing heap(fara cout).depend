@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620312650 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul1\sem2\sd\tema 7(structura date 2)\pairing heap(fara cout)\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
